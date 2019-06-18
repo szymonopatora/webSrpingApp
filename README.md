@@ -1,3 +1,3 @@
 # webSrpingApp
 A warm up before some more advanced Spring challenges. 
-An exercise qriginating from Spring Guru online course.
+An exercise originating from Spring Guru online course.
