@@ -17,7 +17,7 @@ public class Publisher {
     private String name;
     private String address;
 
-    public Publisher(){
+    public Publisher() {
 
     }
 
@@ -50,7 +50,6 @@ public class Publisher {
     public void setAddress(String address) {
         this.address = address;
     }
-
 
 
     @Override
